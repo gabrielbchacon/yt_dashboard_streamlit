@@ -3,6 +3,4 @@ pandas
 plotly
 requests
 streamlit
-json
-datetime
 

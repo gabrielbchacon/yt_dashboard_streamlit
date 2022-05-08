@@ -1,12 +1,71 @@
 {
     "UCLVcdDuJIkpfyZnZgy5WUbQ": {
         "channel_statistics": {
-            "viewCount": "216",
-            "subscriberCount": "87",
+            "viewCount": "403",
+            "subscriberCount": "108",
             "hiddenSubscriberCount": false,
-            "videoCount": "3"
+            "videoCount": "4"
         },
         "video_data": {
+            "mQ9hffS6Au8": {
+                "publishedAt": "2022-05-05T13:58:42Z",
+                "title": "#REACT: COMO FAZER UMA AN\u00c1LISE EXPLORAT\u00d3RIA PERFEITA",
+                "channelId": "UCLVcdDuJIkpfyZnZgy5WUbQ",
+                "description": "No v\u00eddeo de hoje vou fazer um react de uma an\u00e1lise explorat\u00f3ria feita em Python sobre o varejo digital brasileiro. Ela foi feita pelo Thiago Panini e pode ser encontrada no Kaggle. \n\nSabemos como an\u00e1lise explorat\u00f3ria \u00e9 fundamental para qualquer atividade relacionando dados e Python. Ent\u00e3o \u00e9 muito importante aprendermos como fazer isso com maestria. \n\nRoteio, grava\u00e7\u00e3o e edi\u00e7\u00e3o feitas por mim. @otaldechacon\n\nLink dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce\nSiga o Thiago nas redes: https://www.kaggle.com/thiagopanini\n\n\ud83d\udce7 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc28:\n\u2713 \ud835\udc68\ud835\udc94\ud835\udc94\ud835\udc86\ud835\udc94\ud835\udc94\ud835\udc90\ud835\udc93\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86 \ud835\udc8a\ud835\udc8e\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8f\ud835\udc94\ud835\udc82 \u2192 contato.chacon.tech@gmail.com\n\u2713 Instagram  \u2192  @cha.con.tech \n\u2713 Twitter\u2192  @otalchacon\n\n\u266c \ud835\ude14\ud835\ude36\u0301\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude34:\nFuture Fashion [Future and Abstract Music] by MokkaMusic / Milk https://youtu.be/cpNUNXn8_ekMusic provided by \"MokkaMusic\" channel and https://inaudio.org",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mQ9hffS6Au8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mQ9hffS6Au8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mQ9hffS6Au8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mQ9hffS6Au8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mQ9hffS6Au8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ch\u00e1 con Tech",
+                "tags": [
+                    "#PYTHON",
+                    "#APRENDER PYTHON"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "#REACT: COMO FAZER UMA AN\u00c1LISE EXPLORAT\u00d3RIA PERFEITA",
+                    "description": "No v\u00eddeo de hoje vou fazer um react de uma an\u00e1lise explorat\u00f3ria feita em Python sobre o varejo digital brasileiro. Ela foi feita pelo Thiago Panini e pode ser encontrada no Kaggle. \n\nSabemos como an\u00e1lise explorat\u00f3ria \u00e9 fundamental para qualquer atividade relacionando dados e Python. Ent\u00e3o \u00e9 muito importante aprendermos como fazer isso com maestria. \n\nRoteio, grava\u00e7\u00e3o e edi\u00e7\u00e3o feitas por mim. @otaldechacon\n\nLink dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce\nSiga o Thiago nas redes: https://www.kaggle.com/thiagopanini\n\n\ud83d\udce7 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc28:\n\u2713 \ud835\udc68\ud835\udc94\ud835\udc94\ud835\udc86\ud835\udc94\ud835\udc94\ud835\udc90\ud835\udc93\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86 \ud835\udc8a\ud835\udc8e\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8f\ud835\udc94\ud835\udc82 \u2192 contato.chacon.tech@gmail.com\n\u2713 Instagram  \u2192  @cha.con.tech \n\u2713 Twitter\u2192  @otalchacon\n\n\u266c \ud835\ude14\ud835\ude36\u0301\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude34:\nFuture Fashion [Future and Abstract Music] by MokkaMusic / Milk https://youtu.be/cpNUNXn8_ekMusic provided by \"MokkaMusic\" channel and https://inaudio.org"
+                },
+                "defaultAudioLanguage": "pt-BR",
+                "viewCount": "150",
+                "likeCount": "42",
+                "favoriteCount": "0",
+                "commentCount": "4",
+                "duration": "PT18M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular",
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            },
             "VN1sr8TPSE8": {
                 "publishedAt": "2022-04-28T15:06:20Z",
                 "title": "APRENDA PYTHON EM 15 MINUTOS SAINDO DO ZERO",
@@ -43,10 +102,10 @@
                     "description": "No v\u00eddeo de hoje vou ensinar voc\u00eas o b\u00e1sico da escrita de Python de um jeito muito simples e pr\u00e1tico. Saindo do zero, em 15 minutos voc\u00ea j\u00e1 ser\u00e1 capaz de escrever o b\u00e1sico da linguagem.\n\nPython \u00e9 uma linguagem indicada para pessoas iniciantes na programa\u00e7\u00e3o. Com muito pouco estudo voc\u00ea j\u00e1 ser\u00e1 capaz de ler e interpretar c\u00f3digos nessa linguagem. Mesmo sem nunca ter programado na vida.\n\nRoteio, grava\u00e7\u00e3o e edi\u00e7\u00e3o feitas por mim. @otaldechacon\n\n\ud83d\udce7 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc28:\n\u2713 \ud835\udc68\ud835\udc94\ud835\udc94\ud835\udc86\ud835\udc94\ud835\udc94\ud835\udc90\ud835\udc93\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86 \ud835\udc8a\ud835\udc8e\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8f\ud835\udc94\ud835\udc82 \u2192 contato.chacon.tech@gmail.com\n\u2713 Instagram  \u2192  @cha.con.tech \n\u2713 Twitter\u2192  @otalchacon\n\n\u266c \ud835\ude14\ud835\ude36\u0301\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude34:\nFuture Fashion [Future and Abstract Music] by MokkaMusic / Milk https://youtu.be/cpNUNXn8_ekMusic provided by \"MokkaMusic\" channel and https://inaudio.org"
                 },
                 "defaultAudioLanguage": "pt-BR",
-                "viewCount": "48",
-                "likeCount": "17",
+                "viewCount": "61",
+                "likeCount": "20",
                 "favoriteCount": "0",
-                "commentCount": "4",
+                "commentCount": "5",
                 "duration": "PT18M4S",
                 "dimension": "2d",
                 "definition": "hd",
@@ -93,8 +152,8 @@
                     "description": "Muita gente n\u00e3o sabe que \u00e9 poss\u00edvel aprender Python sozinho e sem pagar nada se n\u00e3o quiser! \n\nNo v\u00eddeo de hoje vou dar um caminho para que voc\u00ea possa aprender Python na sua casa sozinho e de gra\u00e7a, partindo do zero. Vou passar desde os primeiros t\u00f3picos que voc\u00ea deve buscar para aprender o b\u00e1sico da escrita de Python e depois vou falar um pouco sobre onde voc\u00ea pode buscar conte\u00fado.\n \nLink Google Colab: https://research.google.com\n\nRoteio, grava\u00e7\u00e3o e edi\u00e7\u00e3o feitas por mim. @otaldechacon\n\n\ud83d\udce7 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc28:\n\u2713 \ud835\udc68\ud835\udc94\ud835\udc94\ud835\udc86\ud835\udc94\ud835\udc94\ud835\udc90\ud835\udc93\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86 \ud835\udc8a\ud835\udc8e\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8f\ud835\udc94\ud835\udc82 \u2192 contato.chacon.tech@gmail.com\n\u2713 Instagram  \u2192  @cha.con.tech \n\u2713 Twitter\u2192  @otalchacon\n\n\u266c \ud835\ude14\ud835\ude36\u0301\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude34:\nFuture Fashion [Future and Abstract Music] by MokkaMusic / Milk https://youtu.be/cpNUNXn8_ekMusic provided by \"MokkaMusic\" channel and https://inaudio.org"
                 },
                 "defaultAudioLanguage": "pt-BR",
-                "viewCount": "53",
-                "likeCount": "24",
+                "viewCount": "65",
+                "likeCount": "27",
                 "favoriteCount": "0",
                 "commentCount": "3",
                 "duration": "PT11M2S",
@@ -144,8 +203,8 @@
                     "description": "Existem muitas pessoas querendo aprender sozinhas Python em 2022, mas ser\u00e1 que ainda vale a pena aprender essa linguagem? \n\nNo v\u00eddeo de hoje vamos conversar sobre a raz\u00e3o do Python se tornar t\u00e3o popular! Vou te dar 5 motivos do porqu\u00ea voc\u00ea deve aprender essa linguagem em 2022, e como isto se tornar\u00e1 a sua porta de entrada para o mundo da tecnologia.\n\n\nRoteio, grava\u00e7\u00e3o e edi\u00e7\u00e3o feitas por mim. @otaldechacon\n\n\ud83d\udce7 \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc28:\n\u2713 \ud835\udc68\ud835\udc94\ud835\udc94\ud835\udc86\ud835\udc94\ud835\udc94\ud835\udc90\ud835\udc93\ud835\udc8a\ud835\udc82 \ud835\udc85\ud835\udc86 \ud835\udc8a\ud835\udc8e\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8f\ud835\udc94\ud835\udc82 \u2192 contato.chacon.tech@gmail.com\n\n\u2713 Instagram  \u2192  @cha.con.tech \n\u2713 Twitter\u2192  @otalchacon\n\n\u266c \ud835\ude14\ud835\ude36\u0301\ud835\ude34\ud835\ude2a\ud835\ude24\ud835\ude22\ud835\ude34:\nFuture Fashion [Future and Abstract Music] by MokkaMusic / Milk https://youtu.be/cpNUNXn8_ek\nMusic provided by \"MokkaMusic\" channel and https://inaudio.org"
                 },
                 "defaultAudioLanguage": "pt-BR",
-                "viewCount": "115",
-                "likeCount": "36",
+                "viewCount": "131",
+                "likeCount": "40",
                 "favoriteCount": "0",
                 "commentCount": "15",
                 "duration": "PT7M10S",

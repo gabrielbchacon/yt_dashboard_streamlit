@@ -1,7 +1,10 @@
 from youtube_statistics import YTstats
 import json
 
-API_KEYS = 'AIzaSyCNf3zF2ATZGD-xnnK9tZDIinda-R3pasI'
+import config
+
+API_KEYS = config.API_KEYS
+
 channel_id = 'UCLVcdDuJIkpfyZnZgy5WUbQ'
 
 yt = YTstats(API_KEYS, channel_id)

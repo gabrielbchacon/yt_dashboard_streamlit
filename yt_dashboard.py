@@ -1,4 +1,3 @@
-
 #Importing libs 
 import json
 import pandas as pd
@@ -10,16 +9,15 @@ from datetime import datetime
 import streamlit as st
 
 #Data Load and preparation
-
 file = 'cha_con_tech.json'
 data = None
 with open(file, 'r') as f:
     data = json.load(f)
 
+
 channel_id, stats = data.popitem()
 channel_stats = stats['channel_statistics']
 video_stats = stats['video_data']
-
 
 sorted_vids = sorted(video_stats.items(), key=lambda item: int(item[1]['viewCount']), reverse=True)
 stats = []
@@ -40,26 +38,36 @@ for vid in sorted_vids:
 
 df = pd.DataFrame(stats, columns=['video_id', 'title', 'views', 'likes', 'duration','thumb_link', 'comments', 'tags', 'description'])
 
+
 #Some basic feature engineer
 df[['minutes','seconds']] = df['duration'].str.extract(r'PT(\d+)M(\d+)S', expand=True).astype('int')
 df['total_seconds'] = 60*df['minutes'] + df['seconds']
 
+
 #Building the Streamlit app
 add_sidebar = st.sidebar.selectbox('Aggregate or Individual Video', ('Aggregate Metrics','Individual Video Analysis'))
+
 
 if add_sidebar == 'Aggregate Metrics':
     st.write('Aggregate Metrics')
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric('Views', channel_stats['viewCount'])
     
     with col2:
-        col2 = st.metric('Subs', channel_stats['subscriberCount'])
+        subs_count = int(channel_stats['subscriberCount'])
+        subs_count_vstarget = round(subs_count / 1000, 2)*100
+        vs_target = f'({subs_count_vstarget}% vs. target)'
+        col2 = st.metric('Subs', subs_count)
+        st.write(vs_target)
 
     with col3:
         col3 = st.metric('videos', channel_stats['videoCount'])
 
+    with col4:
+        col4 = st.metric('Total content (hours)', round(df['total_seconds'].sum() / 3600, 1))
+    
     st.dataframe(df.style, 1200, 900)
 
 
@@ -91,3 +99,4 @@ if add_sidebar == 'Individual Video Analysis':
 
     
     st.image(agg_filtered.iloc[0]['thumb_link'], use_column_width = True)
+
